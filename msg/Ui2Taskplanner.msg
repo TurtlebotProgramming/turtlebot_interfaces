@@ -1,0 +1,3 @@
+int32 deliver_object_id
+bool deliver_flag
+bool putback_flag
