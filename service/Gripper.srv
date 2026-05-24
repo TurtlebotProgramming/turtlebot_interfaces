@@ -1,0 +1,4 @@
+int32 command   # 0: release, 1: grip
+---
+bool success
+string message

@@ -16,6 +16,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Ui2Taskplanner.msg"
   "msg/Refiner2taskplanner.msg"
   "action/Gripper.action"
+  "service/Gripper.srv"
   DEPENDENCIES std_msgs geometry_msgs
 )
 
