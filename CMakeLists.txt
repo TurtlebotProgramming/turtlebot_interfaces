@@ -15,6 +15,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/TurtlebotImu.msg"
   "msg/Ui2Taskplanner.msg"
   "msg/Refiner2taskplanner.msg"
+  "msg/ClientUiStatus.msg"
   "action/Gripper.action"
   "service/Gripper.srv"
   DEPENDENCIES std_msgs geometry_msgs
